@@ -1,0 +1,3 @@
+-xc
+-I
+dependencies/SDL/include
