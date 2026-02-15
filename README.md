@@ -33,3 +33,6 @@ cmake --build ./build
 
 5. Run _siv_ :
 `./build/siv.exe`
+
+## Usage
+`siv.exe <path_to_image_file>`
